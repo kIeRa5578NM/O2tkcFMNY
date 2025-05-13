@@ -68,7 +68,6 @@ AlignAfterOpenBracket: Align
 AlignConsecutiveAssignments: true
 # 左对齐换行(使用反斜杠换行)的反斜杠
 AlignEscapedNewlines: Right
-# # 左对齐换行(使用反斜杠换行)的反斜杠
 # AlignEscapedNewlinesLeft: true
 # 水平对齐二元和三元表达式的操作数
 AlignOperands: true
