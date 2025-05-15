@@ -36,7 +36,6 @@
 								<li><i class="fa fa-envelope-o m-r-5"></i>info@meetupcareers.com</li>
 							</ul>
 						</div>
-						<div class="col-md-6">
 							<ul class="float-right list-top">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
