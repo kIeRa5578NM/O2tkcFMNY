@@ -157,7 +157,6 @@ var Store = (function StoreClosure() {
       var dataPoints = data.data;
       var pointsLen = dataPoints.length;
 
-
       // reset data arrays
       this._data = [];
       this._radi = [];
