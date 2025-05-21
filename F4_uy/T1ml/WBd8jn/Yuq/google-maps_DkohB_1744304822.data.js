@@ -456,7 +456,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
     },
     _colorize: function() {
       var x = this._renderBoundaries[0];
-      var y = this._renderBoundaries[1];
       var width = this._renderBoundaries[2] - x;
       var height = this._renderBoundaries[3] - y;
       var maxWidth = this._width;
