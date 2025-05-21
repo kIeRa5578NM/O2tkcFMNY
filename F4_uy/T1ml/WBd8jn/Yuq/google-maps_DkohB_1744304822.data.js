@@ -50,7 +50,6 @@ var Store = (function StoreClosure() {
   };
 
   var defaultRadius = HeatmapConfig.defaultRadius;
-
   Store.prototype = {
     // when forceRender = false -> called from setData, omits renderall event
         var x = dataPoint[this._xField];
