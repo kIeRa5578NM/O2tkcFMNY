@@ -329,7 +329,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
     var container = config.container;
     var shadowCanvas = this.shadowCanvas = document.createElement('canvas');
     var canvas = this.canvas = config.canvas || document.createElement('canvas');
-    var renderBoundaries = this._renderBoundaries = [10000, 10000, 0, 0];
 
     var computed = getComputedStyle(config.container) || {};
 
