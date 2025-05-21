@@ -17,7 +17,6 @@
 		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 		<!-- Animate -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
-		<!-- Css -->
 		<link rel="stylesheet" type="text/css" href="css/css.css">
 		<!-- Style -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
