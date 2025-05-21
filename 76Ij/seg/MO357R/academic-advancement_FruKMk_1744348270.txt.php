@@ -152,7 +152,6 @@
 						<div class="col-sm-6 col-md-4">
 							<h3>Contact</h3>
 							<p>Covenant Universtiy</p>
-							<ul class="list">
 								<li><a href="#">Sango Otta , Ogun State</a></li>
 								<li><a href="#">+234-706-3000-971</a></li>
 								<li><a href="#">info@meetupcareers.com</a></li>
