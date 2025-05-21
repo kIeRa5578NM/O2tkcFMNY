@@ -327,7 +327,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
 
     var computed = getComputedStyle(config.container) || {};
 
-    canvas.className = 'heatmap-canvas';
 
     this._width = canvas.width = shadowCanvas.width = config.width || +(computed.width.replace(/px/,''));
     this._height = canvas.height = shadowCanvas.height = config.height || +(computed.height.replace(/px/,''));
