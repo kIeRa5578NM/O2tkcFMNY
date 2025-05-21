@@ -317,7 +317,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
     return {
       min: min,
       max: max,
-      data: renderData
     };
   };
 
