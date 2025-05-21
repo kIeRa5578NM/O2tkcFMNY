@@ -176,7 +176,6 @@ var Store = (function StoreClosure() {
       this._onExtremaChange();
       this._coordinator.emit('renderall', this._getInternalData());
       return this;
-    },
     setDataMin: function(min) {
       this._min = min;
       this._onExtremaChange();
