@@ -13,7 +13,6 @@
 		<link rel="stylesheet" type="text/css" href="css/owl-coursel/owl.carousel.css">
 		<link rel="stylesheet" type="text/css" href="css/owl-coursel/owl.theme.css">
 		<link rel="stylesheet" type="text/css" href="css/owl-coursel/owl.transitions.css">
-		<!-- Font-awesome -->
 		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 		<!-- Animate -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
