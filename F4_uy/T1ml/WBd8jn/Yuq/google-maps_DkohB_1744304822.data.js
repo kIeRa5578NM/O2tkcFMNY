@@ -63,7 +63,6 @@ var Store = (function StoreClosure() {
         var radius = dataPoint.radius || this._cfgRadius || defaultRadius;
 
         if (!store[x]) {
-          store[x] = [];
           radi[x] = [];
         }
 
