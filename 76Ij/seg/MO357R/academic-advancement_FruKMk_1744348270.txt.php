@@ -48,7 +48,6 @@
 			<div class="main-header">
 				<div class="container">
 					<div class="row align-items-center">
-						<div class="col-xs-6 col-sm-3">
 							<a href="index.php" class="logo">
 								<img src="images/e-logo.jpg" alt="image">
 							</a>
