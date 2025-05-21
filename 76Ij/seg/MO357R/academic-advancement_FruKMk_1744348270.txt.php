@@ -45,7 +45,6 @@
 				</div>
 			</div>
 			<div class="main-header">
-				<div class="container">
 					<div class="row align-items-center">
 							<a href="index.php" class="logo">
 								<img src="images/e-logo.jpg" alt="image">
