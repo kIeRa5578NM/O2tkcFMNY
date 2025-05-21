@@ -107,7 +107,6 @@
 						  </td>
 				        </tr>
 				      </tbody>
-					<table width="100%" height="400" border="0">
 					  <tbody>
 					    <tr>
 					      <td width="50%" valign="top" align="left">
