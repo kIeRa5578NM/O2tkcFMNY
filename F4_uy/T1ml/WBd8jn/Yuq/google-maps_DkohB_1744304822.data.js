@@ -142,7 +142,6 @@ var Store = (function StoreClosure() {
         if (organisedEntry) {
           // if it's the first datapoint initialize the extremas with it
           if (this._data.length === 0) {
-            this._min = this._max = organisedEntry.value;
           }
           this._coordinator.emit('renderpartial', {
             min: this._min,
