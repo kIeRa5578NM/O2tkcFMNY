@@ -70,7 +70,6 @@
 									<li>
 										<a href="#">Literature Review</a>
 									</li>
-								</ul>
 							</nav>
 						</div>
 					</div>
