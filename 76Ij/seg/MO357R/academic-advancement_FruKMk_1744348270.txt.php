@@ -51,7 +51,6 @@
 							<a href="index.php" class="logo">
 								<img src="images/e-logo.jpg" alt="image">
 							</a>
-						</div>
 						<div class="col-xs-4 col-sm-9 hidden-md hidden-lg">
 							<nav id="holder_mn" class="menu-nav pull-right">
 								<div class="menu-btn"></div>
