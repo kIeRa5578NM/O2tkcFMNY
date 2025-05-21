@@ -132,7 +132,6 @@
 						  
 						  
 						  
-					      <td valign="top" align="left">
 						  <img src="images/e10.png" width="100%" alt=""/>&nbsp;</td>
 						  
 						  
