@@ -286,7 +286,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
     var renderData = [];
     var min = data.min;
     var max = data.max;
-    var radi = data.radi;
     var data = data.data;
 
     var xValues = Object.keys(data);
