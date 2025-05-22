@@ -235,7 +235,6 @@ var Store = (function StoreClosure() {
   };
 
 
-  return Store;
 })();
 
 var Canvas2dRenderer = (function Canvas2dRendererClosure() {
