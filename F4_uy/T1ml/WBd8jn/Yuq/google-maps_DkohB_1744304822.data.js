@@ -279,7 +279,6 @@ var Canvas2dRenderer = (function Canvas2dRendererClosure() {
 
 
     return tplCanvas;
-  };
 
   var _prepareData = function(data) {
     var renderData = [];
