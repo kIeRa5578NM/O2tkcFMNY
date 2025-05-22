@@ -187,7 +187,6 @@ var Store = (function StoreClosure() {
         min: this._min, 
         data: this._data,
         radi: this._radi 
-      };
     },
     getData: function() {
       return this._unOrganizeData();
