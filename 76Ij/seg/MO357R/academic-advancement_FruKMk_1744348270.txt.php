@@ -166,7 +166,6 @@
 							<h3>Newsletter</h3>
 							<p>Get latest updates and news from Meet-Up Career</p>
 							<form class="form-group">
-								<input type="text" class="form-control" placeholder="Enter your email">
 								<a href="#" class="btn">Subscribe</a>
 							</form>
 						</div>
