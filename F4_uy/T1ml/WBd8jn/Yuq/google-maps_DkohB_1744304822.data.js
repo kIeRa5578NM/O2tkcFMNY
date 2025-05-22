@@ -89,7 +89,6 @@ var Store = (function StoreClosure() {
           return false;
         } else {
           return { 
-            x: x, 
             y: y,
             value: value, 
             radius: radius,
