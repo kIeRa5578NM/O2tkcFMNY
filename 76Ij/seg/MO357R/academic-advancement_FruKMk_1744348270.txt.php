@@ -28,7 +28,6 @@
 			<div class="top-header bg-4f84c4">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-6 d-none d-md-block">
 							<ul class="list-top">
 								<li><i class="fa fa-phone m-r-5"></i>+234-706-3000-971</li>
 								<li><i class="fa fa-envelope-o m-r-5"></i>info@meetupcareers.com</li>
