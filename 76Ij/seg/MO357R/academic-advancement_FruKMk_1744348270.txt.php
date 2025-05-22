@@ -40,7 +40,6 @@
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 							</ul>
 						</div>
-					</div>
 				</div>
 			</div>
 			<div class="main-header">
