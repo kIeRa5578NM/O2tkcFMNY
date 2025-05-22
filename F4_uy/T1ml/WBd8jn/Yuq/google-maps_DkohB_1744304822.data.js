@@ -92,7 +92,6 @@ var Store = (function StoreClosure() {
             y: y,
             value: value, 
             radius: radius,
-            min: min,
             max: max 
           };
         }
