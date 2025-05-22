@@ -148,7 +148,6 @@ var Store = (function StoreClosure() {
       }
       return this;
     },
-    setData: function(data) {
       var dataPoints = data.data;
       var pointsLen = dataPoints.length;
 
