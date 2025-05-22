@@ -143,7 +143,6 @@
 								<li><a href="#">+234-706-3000-971</a></li>
 								<li><a href="#">info@meetupcareers.com</a></li>
 							</ul>
-						</div>
 						<div class="col-sm-6 col-md-2">
 							<h3>About</h3>
 							<ul>
